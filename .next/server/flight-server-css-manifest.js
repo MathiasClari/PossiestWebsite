@@ -1,1 +1,0 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"E:\\PossiestModernWebsite\\possiestweb\\app\\page":["E:\\PossiestModernWebsite\\possiestweb\\styles\\globals.css"]},"E:\\PossiestModernWebsite\\possiestweb\\app\\layout.js":["E:\\PossiestModernWebsite\\possiestweb\\styles\\globals.css"]}
